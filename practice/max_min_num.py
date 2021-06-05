@@ -30,6 +30,8 @@ def smallest_number():
 
     print(f"The smallest number in the list in {small_number} and the index of it is {small_position}")
 
+
+
 if __name__ == "__main__":
     # largest_number()
     smallest_number()
